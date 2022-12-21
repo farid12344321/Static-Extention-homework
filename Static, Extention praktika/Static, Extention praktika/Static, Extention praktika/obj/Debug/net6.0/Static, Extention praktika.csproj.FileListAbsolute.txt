@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\homework\c#\Static, Extention\Static, Extention praktika\Static, Extention praktika\Static, Extention praktika\bin\Debug\net6.0\Static, Extention praktika.exe
+C:\Users\Lenovo\Desktop\homework\c#\Static, Extention\Static, Extention praktika\Static, Extention praktika\Static, Extention praktika\bin\Debug\net6.0\Static, Extention praktika.deps.json
+C:\Users\Lenovo\Desktop\homework\c#\Static, Extention\Static, Extention praktika\Static, Extention praktika\Static, Extention praktika\bin\Debug\net6.0\Static, Extention praktika.runtimeconfig.json
+C:\Users\Lenovo\Desktop\homework\c#\Static, Extention\Static, Extention praktika\Static, Extention praktika\Static, Extention praktika\bin\Debug\net6.0\Static, Extention praktika.dll
+C:\Users\Lenovo\Desktop\homework\c#\Static, Extention\Static, Extention praktika\Static, Extention praktika\Static, Extention praktika\bin\Debug\net6.0\Static, Extention praktika.pdb
+C:\Users\Lenovo\Desktop\homework\c#\Static, Extention\Static, Extention praktika\Static, Extention praktika\Static, Extention praktika\obj\Debug\net6.0\Static, Extention praktika.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\homework\c#\Static, Extention\Static, Extention praktika\Static, Extention praktika\Static, Extention praktika\obj\Debug\net6.0\Static, Extention praktika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\homework\c#\Static, Extention\Static, Extention praktika\Static, Extention praktika\Static, Extention praktika\obj\Debug\net6.0\Static, Extention praktika.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\homework\c#\Static, Extention\Static, Extention praktika\Static, Extention praktika\Static, Extention praktika\obj\Debug\net6.0\Static, Extention praktika.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\homework\c#\Static, Extention\Static, Extention praktika\Static, Extention praktika\Static, Extention praktika\obj\Debug\net6.0\Static, Extention praktika.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\homework\c#\Static, Extention\Static, Extention praktika\Static, Extention praktika\Static, Extention praktika\obj\Debug\net6.0\Static, Extention praktika.dll
+C:\Users\Lenovo\Desktop\homework\c#\Static, Extention\Static, Extention praktika\Static, Extention praktika\Static, Extention praktika\obj\Debug\net6.0\refint\Static, Extention praktika.dll
+C:\Users\Lenovo\Desktop\homework\c#\Static, Extention\Static, Extention praktika\Static, Extention praktika\Static, Extention praktika\obj\Debug\net6.0\Static, Extention praktika.pdb
+C:\Users\Lenovo\Desktop\homework\c#\Static, Extention\Static, Extention praktika\Static, Extention praktika\Static, Extention praktika\obj\Debug\net6.0\Static, Extention praktika.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\homework\c#\Static, Extention\Static, Extention praktika\Static, Extention praktika\Static, Extention praktika\obj\Debug\net6.0\ref\Static, Extention praktika.dll
